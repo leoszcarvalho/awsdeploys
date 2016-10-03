@@ -1,0 +1,10 @@
+branch-defaults:
+  master:
+    environment: testegitaws
+global:
+  application_name: testeaws
+  default_ec2_keyname: ChaveSitePessoal
+  default_platform: 64bit Amazon Linux 2016.03 v2.1.7 running PHP 7.0
+  default_region: sa-east-1
+  profile: eb-cli
+  sc: git
